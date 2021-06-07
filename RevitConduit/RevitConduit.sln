@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitConduit", "RevitConduit\RevitConduit.csproj", "{18DAFDEB-4DD8-4030-A378-4894E2D58E44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18DAFDEB-4DD8-4030-A378-4894E2D58E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DAFDEB-4DD8-4030-A378-4894E2D58E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DAFDEB-4DD8-4030-A378-4894E2D58E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DAFDEB-4DD8-4030-A378-4894E2D58E44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3590FAA-DD64-48C9-ACE8-451A2E3A16D9}
+	EndGlobalSection
+EndGlobal

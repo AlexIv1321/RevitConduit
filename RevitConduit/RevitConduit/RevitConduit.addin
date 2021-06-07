@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command RevitConduit</Text>
+    <Description>Some description for RevitConduit</Description>
+    <Assembly>RevitConduit.dll</Assembly>
+    <FullClassName>RevitConduit.Command</FullClassName>
+    <ClientId>abef80ca-035d-4f95-93c9-ef8d53774c48</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application RevitConduit</Name>
+    <Assembly>RevitConduit.dll</Assembly>
+    <FullClassName>RevitConduit.App</FullClassName>
+    <ClientId>f71e81b5-de94-44e5-92f0-6241651994ee</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
